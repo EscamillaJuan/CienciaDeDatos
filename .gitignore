@@ -158,6 +158,7 @@ __pycache__
 .ipynb_checkpoints/
 .DS_Store
 datos/
+figuras/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
